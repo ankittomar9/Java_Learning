@@ -1,3 +1,5 @@
+package com.company;
+
 public class cwh_ch_2_operators {
     public static void main(String[] args) {
         int a = 4;
